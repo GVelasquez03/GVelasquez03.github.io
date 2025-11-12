@@ -41,16 +41,16 @@ const SkillsList = () => {
       "Actualmente soy desarrollador junior con conocimiento en tecnologías como Angular,Java,Python, Js, Typescript Sprint boot, HTML, CSS, Boostrap, Node.js, Express, Mysql, postgresql entre otras.",
     ],
     "Mi Experiencia": [
-      "Tengo experiencia trabajando en startups y consultoras tecnológicas, desarrollando y maquetando sitios web a partir de diseños en Figma. Para ello, utilizo tecnologías frontend como Astro y React, junto con Tailwind CSS y otras librerías y frameworks para el estilizado y la optimización de interfaces.",
+      "Mi experiencia práctica se basa en la implementación de lógica de negocio en aplicaciones web y escritorio, y el manejo de bases de datos relacionales. Aunque aún no cuento con experiencia laboral formal, he desarrollado habilidades sólidas en entornos colaborativos, resolución de problemas técnicos, y documentación de proyectos. Me caracterizo por ser proactivo, curioso y comprometido con el aprendizaje continuo.",
     ],
     "Mi formacion": [
-      "Estudié una tecnicatura en automatización de grado universitaria en el ITU, lo que me brindó las bases en programación. Posteriormente, decidí enfocarme en el desarrollo web y de software estudiando en el ITU. Ademas, realicé diversos cursos, diplomados y capacitaciones en grandes universidades Argentinas, como la UTN y el Instituto Tecnológico Universitario, tambien, complemento mi formación con el aprendizaje autodidacta, lo que me permite mantenerme actualizado con los avances tecnológicos en el desarrollo de software.",
+      "📘 Actualmente estoy en proceso de formacion en la Universidad de Oriente Nucleo Nueva Esparta.",
     ],
     "¿Cómo trabajo en equipo?": [
-      "Tengo experiencia trabajando en equipos multidisciplinarios, donde me he encargado del desarrollo frontend de aplicaciones web. Para ello, utilizo metodologías ágiles como Scrum y Kanban, además de herramientas de control de versiones como Git y GitHub para gestionar el flujo de trabajo. También cuento con experiencia en el uso de herramientas de gestión de proyectos como Trello y Jira, facilitando la organización y colaboración dentro del equipo.",
+      "Tengo experiencia trabajando en equipos desde el entorno educativo universitario, donde me he encargado del desarrollo backend de aplicaciones web. Para ello, utilizo la metodología ágil Scrum, además de herramientas de control de versiones como Git y GitHub para gestionar el flujo de trabajo. También cuento con experiencia en el uso de herramientas de gestión de proyectos como Jira, facilitando la organización y colaboración dentro del equipo.",
     ],
     "Metodolgias Agiles": [
-      "He trabajado con metodologías ágiles como Scrum y Kanban. En Scrum, participé en sprints de dos semanas, donde al finalizar cada sprint realizaba un pull request (PR) con mi trabajo, el cual pasaba por una fase de revisión y corrección antes de ser fusionado y enviado a producción. También he trabajado con Kanban, utilizando tableros para gestionar tareas y moverlas según su estado de progreso. Además, participé en reuniones diarias (dailies) para planificar y reportar avances del proyecto, asegurando una comunicación eficiente dentro del equipo.",
+      "Actualmente solo He trabajado con la metodología ágil Scrum, participé en sprints de dos semanas, donde al finalizar cada sprint realizaba un pull request (PR) con mi trabajo, el cual pasaba por una fase de revisión y corrección antes de ser fusionado y enviado a producción. También he trabajado con Kanban, utilizando tableros para gestionar tareas y moverlas según su estado de progreso. Además, participé en reuniones diarias (dailies) para planificar y reportar avances del proyecto, asegurando una comunicación eficiente dentro del equipo.",
     ],
   };
 
