@@ -38,7 +38,7 @@ const SkillsList = () => {
 
   const skills = {
     "¿Qué tecnologías uso?": [
-      "Actualmente trabajo con tecnologías como React, Next.js, Vue.js, Astro, tailwind, Boostrap y demas librerias y frameworks para el frontend y en el backend trabajo con Node.js, Express, MongoDB, Firebase, entre otras.",
+      "Actualmente soy desarrollador junior con conocimiento en tecnologías como Angular,Java,Python, Js, Typescript Sprint boot, HTML, CSS, Boostrap, Node.js, Express, Mysql, postgresql entre otras.",
     ],
     "Mi Experiencia": [
       "Tengo experiencia trabajando en startups y consultoras tecnológicas, desarrollando y maquetando sitios web a partir de diseños en Figma. Para ello, utilizo tecnologías frontend como Astro y React, junto con Tailwind CSS y otras librerías y frameworks para el estilizado y la optimización de interfaces.",
