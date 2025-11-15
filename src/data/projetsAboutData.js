@@ -1,21 +1,19 @@
-import urbanStyle from "../assets/img-projects/urbanStyle.png";
+import urbanStyle from "../assets/img-projects/AleskyGym.png";
+import Academia from "../assets/img-projects/AcademiaBaile.png";
 import imgNote from "../assets/img-projects/note-app.png";
 
 export const proyectos = [
   {
-    titulo: "E-commerce Urban Style",
+    titulo: "Gestion de Clases Gimnasio",
     descripcion: "Descripción breve del proyecto 1.",
     imagen: urbanStyle.src,
-    tecnologias: ["React", "Tailwind", "Firebase"],
-    demo: "https://proyecto-final-rodriguez-sable.vercel.app/",
-    codigo: "https://github.com/Lautaro-R-collins/ProyectoFinal-Rodriguez.git",
+    tecnologias: ["Java", "Spring Boot","Angular","Mysql"],
+    codigo: "https://github.com/GVelasquez03/AleskyGym",
   },
   {
-    titulo: "Tienda Artesana",
-    imagen:
-      "https://i.pinimg.com/736x/c9/70/bf/c970bfbc24489e39418b2c1b1f8f74ef.jpg",
+    titulo: "Academia de Baile",
+    imagen: Academia.src,
     tecnologias: ["React", "Node", "Express", "MongoDB"],
-    demo: "https://c21-05-ft-node-react-mirror-frontend-64qbwssi2-muyvisual.vercel.app/",
     codigo: "https://github.com/No-Country-simulation/c21-05-ft-node-react",
   },
   {
