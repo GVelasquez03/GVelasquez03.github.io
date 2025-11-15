@@ -14,7 +14,7 @@ export const proyectos = [
     titulo: "Academia de Baile",
     imagen: Academia.src,
     tecnologias: ["Boostrap","Node","Express","Typescript", "Postgresql"],
-    codigo: "https://github.com/No-Country-simulation/c21-05-ft-node-react",
+    codigo: "https://github.com/GVelasquez03/Academia-de-Baile",
   },
   // {
   //   titulo: "App organizacion",
