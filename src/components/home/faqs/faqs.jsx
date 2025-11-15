@@ -62,7 +62,7 @@ const SkillsList = () => {
     <div className="flex flex-col items-center px-4 text-left">
       <div className="mx-auto w-full max-w-4xl">
         <h2 className="text-white text-center text-4xl font-bold drop-shadow-[2px_2px_0_#7836cf]">
-          Sobre mí y mi trabajo
+          Sobre mí y mi experiencia
         </h2>
         <ul className="mt-8 space-y-4 text-lg drop-shadow-[2px_2px_0_#7836cf]">
           {Object.entries(skills).map(([category, items]) => (
