@@ -13,21 +13,21 @@ export const proyectos = [
   {
     titulo: "Academia de Baile",
     imagen: Academia.src,
-    tecnologias: ["React", "Node", "Express", "MongoDB"],
+    tecnologias: ["Boostrap","Node","Express","Typescript", "Postgresql"],
     codigo: "https://github.com/No-Country-simulation/c21-05-ft-node-react",
   },
-  {
-    titulo: "App organizacion",
-    imagen: imgNote.src,
-    tecnologias: ["React", "Tailwind", "Express", "MongoDB"],
-    demo: "https://front-react-todo.onrender.com",
-    codigo: "https://github.com/Lautaro-R-collins/Front-react-todo",
-  },
-  {
-    titulo: "API REST",
-    imagen: "https://miro.medium.com/1*47S4iWVwTicFkFL4-Z4uAA.png",
-    tecnologias: ["Express", "Node.js", "MongoDB", "Mongoose"],
-    demo: "https://back-express-todo.onrender.com",
-    codigo: "https://github.com/Lautaro-R-collins/Back-express-todo.git",
-  },
+  // {
+  //   titulo: "App organizacion",
+  //   imagen: imgNote.src,
+  //   tecnologias: ["React", "Tailwind", "Express", "MongoDB"],
+  //   demo: "https://front-react-todo.onrender.com",
+  //   codigo: "https://github.com/Lautaro-R-collins/Front-react-todo",
+  // },
+  // {
+  //   titulo: "API REST",
+  //   imagen: "https://miro.medium.com/1*47S4iWVwTicFkFL4-Z4uAA.png",
+  //   tecnologias: ["Express", "Node.js", "MongoDB", "Mongoose"],
+  //   demo: "https://back-express-todo.onrender.com",
+  //   codigo: "https://github.com/Lautaro-R-collins/Back-express-todo.git",
+  // },
 ];
